@@ -1,0 +1,41 @@
+body{
+background: linear-gradient(violet),pink;
+}
+
+h1{
+background-color: rgb(240, 71, 113);
+text-align: center;
+}
+h2{
+background-color: beige;
+}
+body{
+    background-image: url(img/imagenfondo.jpg);
+    text-align: center;
+}
+
+footer{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20210416/pngtree-abstract-grind-material-violet-background-image_622606.jpg);
+}
+img{
+ width: 1000px;
+ height: 1500%;
+ padding-left: 60px;
+}
+
+p{
+font-size: larger;
+background-color: rgb(255, 255, 255);
+}
+h4{
+background-color: dimgray;
+color: black;
+}
+h5{
+    background-color: slategray;
+
+}
+h3{
+background-color:darkred ;
+color: azure;
+}
